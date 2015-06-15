@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Arrays {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner input = new Scanner(System.in);
 
 		int value = 7; // values is a bucket/ value is memory loc for value 7

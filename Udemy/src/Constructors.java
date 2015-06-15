@@ -18,6 +18,7 @@ class Machine {
 	}
 
 	public Machine(String name, int code){
+		
 		System.out.println("Third Construtor Now running!");
 		this.name = name;
 		this.code = code;
@@ -27,7 +28,6 @@ class Machine {
 public class Constructors {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Machine Machine1 = new Machine(); // Runs the machine Class
 		Machine machine2 = new Machine("Machine 2 Annnie");
